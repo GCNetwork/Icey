@@ -1,7 +1,7 @@
 <div align="center">
 
 <kbd>
-<img style="border-radius:50%" height="150px" src="">
+<img style="border-radius:50%" height="150px" src="https://raw.githubusercontent.com/GCNetwork/Icey/main/logo%20(1).svg">
 </kbd>
 
 <h1>Icey</h1>
